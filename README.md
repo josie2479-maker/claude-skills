@@ -1,6 +1,6 @@
 # Claude skills
 
-Four skills for Claude (Claude Code, the Claude apps, or anything that loads `SKILL.md` skills). Each lives in its own folder under `skills/`.
+Skills for Claude (Claude Code, the Claude apps, or anything that loads `SKILL.md` skills). Each lives in its own folder under `skills/`.
 
 | Skill | What it does |
 |---|---|
@@ -8,6 +8,7 @@ Four skills for Claude (Claude Code, the Claude apps, or anything that loads `SK
 | [resumable-web-index-crawl](skills/resumable-web-index-crawl/SKILL.md) | Builds a link index of a large documentation site that survives interruption, without bulk-downloading it. Pairs with reliable-fetch. |
 | [fact-verification](skills/fact-verification/SKILL.md) | Checks factual claims against sources before you act on them or pass them on. |
 | [plain-register-pass](skills/plain-register-pass/SKILL.md) | Strips AI-essay voice from a document before it goes to someone else. |
+| [deliverable-requirement-check](skills/deliverable-requirement-check/SKILL.md) | Tests a ready-made list of deliverables before you commit to it: who actually requires each item, what's padding, and what required items are missing. |
 
 ## Install
 
