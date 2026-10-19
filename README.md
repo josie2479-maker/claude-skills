@@ -9,6 +9,7 @@ Skills for Claude (Claude Code, the Claude apps, or anything that loads `SKILL.m
 | [fact-verification](skills/fact-verification/SKILL.md) | Checks factual claims against sources before you act on them or pass them on. |
 | [plain-register-pass](skills/plain-register-pass/SKILL.md) | Strips AI-essay voice from a document before it goes to someone else. |
 | [deliverable-requirement-check](skills/deliverable-requirement-check/SKILL.md) | Tests a ready-made list of deliverables before you commit to it: who actually requires each item, what's padding, and what required items are missing. |
+| [project-foreman](skills/project-foreman/SKILL.md) | Runs large multi-batch projects (migrations, cleanups, big builds) in small checked batches, stopping to flag anything ambiguous instead of guessing. |
 
 ## Install
 
