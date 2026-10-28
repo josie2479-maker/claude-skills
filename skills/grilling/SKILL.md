@@ -1,6 +1,6 @@
 ---
 name: "grilling"
-description: "Interview the user about something they are ABOUT TO BUILD, before any of it is built — a feature, a system, an automation, a workflow, a document structure. Use when a plan exists only in their head or as a rough idea and the design decisions are still open: \"grill me\", \"interview me about this\", \"help me think this through before I build it\", \"what am I not deciding\", \"ask me what you need to know\". Works the design as a dependency tree, asking one answerable question per round (the one that unblocks the most decisions first) with a recommended answer attached, and never asking anything it could look up itself. BOUNDARY — this is front-loaded, for decisions not yet made. Reviewing a plan that already exists and stress-testing it for holes is the plc skill. Interrogating information someone else handed you is critical-thinking-walkthrough. If the thing is already written down and the question is \"is this any good\", it is not this skill."
+description: "Interview the user about something they are about to build (a feature, system, automation, workflow or document structure) while its design decisions are still open. Trigger on \"grill me\", \"interview me about this\", \"help me think this through before I build it\", \"what am I not deciding\". Asks one question per round, each with a recommended answer. Not for reviewing a plan that already exists (plc) or claims someone else handed you (critical-thinking-walkthrough)."
 ---
 
 # Grilling — the pre-build interview
